@@ -24,8 +24,8 @@ This project is a Python-based system that detects human faces and analyzes thei
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
-cd proje-adi
+git clone https://github.com/sinmkeskin/Emotion-Aware-Facial-Recognition-and-Analysis-System
+cd Emotion-Aware-Facial-Recognition-and-Analysis-System
 ```
 
 2. **Create a Virtual Environment**
