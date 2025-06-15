@@ -1,0 +1,14 @@
+streamlit==1.32.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+tensorflow==2.18.0
+face-recognition==1.3.0
+gtts
+playsound==1.2.2
+flask
+requests==2.31.0
+plotly==5.15.0
+pandas==2.2.0
+openpyxl==3.1.2
+
