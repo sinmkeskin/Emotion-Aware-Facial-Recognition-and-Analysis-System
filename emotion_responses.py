@@ -2,7 +2,7 @@ import os
 import requests
 
 # Sabit API anahtarı (güvenlik açısından normalde ortam değişkeni olarak saklanmalıdır)
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "<YOUR_APİ_KEY>")
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama3-8b-8192"  # veya başka bir model
 
