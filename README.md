@@ -32,7 +32,7 @@ cd Emotion-Aware-Facial-Recognition-and-Analysis-System
 
 ```bash
 python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate   
 ```
 
 3. **Install Dependencies**
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 4. **Run the App**
 
 ```bash
-python app.py
+streamlit run .\app.py
 ```
 
 ## 🔍 Features
